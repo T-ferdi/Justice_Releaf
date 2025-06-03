@@ -10,7 +10,15 @@ export default getRequestConfig(async ({locale}) => {
     throw new Error('Invalid locale');
   }
 
+  const messages = await import(`./messages/${locale}.json`).then(module => module.default);
+
   return {
-    messages: (await import(`./messages/${locale}.json`)).default
+    messages,
+    timeZone: 'America/Los_Angeles',
+    getMessageFallback: ({ namespace, key, error }) => {
+      const fallback = `${namespace}.${key}`;
+      console.error('Missing translation:', fallback, error.message);
+      return fallback;
+    }
   };
 }); 

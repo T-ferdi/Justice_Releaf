@@ -6,14 +6,8 @@ import { notFound } from 'next/navigation'
 import { locales } from '@/i18n'
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
-import { getTranslations } from 'next-intl/server'
 
 const inter = Inter({ subsets: ['latin'] })
-
-export const metadata: Metadata = {
-  title: 'Justice Releaf - Environmental Justice for All Communities',
-  description: 'Justice Releaf works to address environmental inequalities by bringing sustainable solutions, green spaces, and climate education to underprivileged communities.',
-}
 
 async function getMessages(locale: string) {
   try {
@@ -30,11 +24,11 @@ export function generateStaticParams() {
 export async function generateMetadata(
   { params: { locale } }: { params: { locale: string } }
 ): Promise<Metadata> {
-  const t = await getTranslations({ locale, namespace: 'metadata' })
+  const messages = await getMessages(locale)
   
   return {
-    title: t('title'),
-    description: t('description'),
+    title: messages.metadata?.title || 'Justice Releaf',
+    description: messages.metadata?.description || 'Environmental Justice for All Communities',
   }
 }
 
