@@ -1,37 +1,45 @@
 "use client"
 
 import Link from "next/link"
-import { Leaf } from "lucide-react"
+import { useLocale, useTranslations } from "next-intl"
+import { MainNav } from "@/components/main-nav"
+import { MobileNav } from "@/components/mobile-nav"
 import { Button } from "@/components/ui/button"
+import { siteConfig } from "@/config/site"
 
 export function SiteHeader() {
+  const t = useTranslations('navigation')
+  const locale = useLocale()
+
+  const mainNavItems = [
+    {
+      title: t('about'),
+      href: `/${locale}/about`,
+    },
+    {
+      title: t('info'),
+      href: `/${locale}/info`,
+    },
+    {
+      title: t('contact'),
+      href: `/${locale}/contact`,
+    },
+  ]
+
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex h-16 items-center">
-        <Link href="/" className="flex items-center gap-2 font-bold text-xl">
-          <Leaf className="h-6 w-6 text-green-600" />
-          <span>Justice Releaf</span>
-        </Link>
-        <nav className="ml-auto flex gap-4 sm:gap-6">
-          <Link href="/" className="text-sm font-medium hover:underline underline-offset-4">
-            Home
-          </Link>
-          <Link href="/about" className="text-sm font-medium hover:underline underline-offset-4">
-            About
-          </Link>
-          <Link href="/programs" className="text-sm font-medium hover:underline underline-offset-4">
-            Programs
-          </Link>
-          <Link href="/get-involved" className="text-sm font-medium hover:underline underline-offset-4">
-            Get Involved
-          </Link>
-          <Link href="/contact" className="text-sm font-medium hover:underline underline-offset-4">
-            Contact
-          </Link>
-        </nav>
-        <Button asChild className="ml-4 bg-green-600 hover:bg-green-700">
-          <Link href="/donate">Donate</Link>
-        </Button>
+      <div className="container flex h-14 items-center">
+        <MainNav items={mainNavItems} />
+        <MobileNav items={mainNavItems} />
+        <div className="flex flex-1 items-center justify-end space-x-4">
+          <nav className="flex items-center space-x-2">
+            <Button asChild variant="default">
+              <Link href={`/${locale}/get-involved`}>
+                {t('getInvolved')}
+              </Link>
+            </Button>
+          </nav>
+        </div>
       </div>
     </header>
   )
