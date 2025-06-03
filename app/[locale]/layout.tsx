@@ -22,8 +22,13 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
+type Props = {
+  children: React.ReactNode
+  params: { locale: string }
+}
+
 export async function generateMetadata(
-  { params: { locale } }: { params: { locale: string } }
+  { params: { locale } }: Props
 ): Promise<Metadata> {
   const messages = await getMessages(locale)
   
@@ -36,10 +41,7 @@ export async function generateMetadata(
 export default async function LocaleLayout({
   children,
   params: { locale }
-}: {
-  children: React.ReactNode
-  params: { locale: string }
-}) {
+}: Props) {
   // Enable static rendering
   unstable_setRequestLocale(locale);
 
