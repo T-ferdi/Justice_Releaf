@@ -1,0 +1,461 @@
+{
+  "metadata": {
+    "title": "Justice Releaf - Justicia Ambiental para Todas las Comunidades",
+    "description": "Justice Releaf trabaja para abordar las desigualdades ambientales brindando soluciones sostenibles, espacios verdes y educación climática a comunidades desfavorecidas."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca",
+    "programs": "Programas",
+    "info": "Información",
+    "getInvolved": "Participa",
+    "contact": "Contacto",
+    "donate": "Donar"
+  },
+  "hero": {
+    "title": "Luchando por la Justicia Climática en Cada Comunidad",
+    "description": "Justice Releaf trabaja para abordar las desigualdades ambientales brindando soluciones sostenibles, espacios verdes y educación climática a comunidades desfavorecidas.",
+    "getInvolved": "Participa",
+    "donate": "Donar Ahora"
+  },
+  "mission": {
+    "title": "Nuestra Misión",
+    "description": "Justice Releaf está dedicada a abordar la injusticia climática en comunidades desfavorecidas a través de iniciativas sostenibles, educación y defensa. Creemos que todos merecen acceso a un ambiente saludable, independientemente de su estado socioeconómico.",
+    "image": {
+      "caption": "Voluntarios trabajando juntos para limpiar residuos plásticos y proteger nuestro medio ambiente"
+    }
+  },
+  "initiatives": {
+    "title": "Nuestras Iniciativas",
+    "urbanGreening": {
+      "title": "Ecologización Urbana",
+      "description": "Plantamos árboles y creamos espacios verdes en vecindarios dominados por el concreto.",
+      "content": "Nuestra iniciativa de ecologización urbana transforma las junglas de concreto en comunidades vibrantes y verdes. A través de la plantación estratégica de árboles y el desarrollo de espacios verdes, mejoramos la calidad del aire, reducimos las islas de calor urbanas y creamos hermosos espacios para la reunión comunitaria.",
+      "learnMore": "Más Información"
+    },
+    "education": {
+      "title": "Educación Climática",
+      "description": "Proporcionamos talleres y recursos para ayudar a las comunidades a comprender el cambio climático.",
+      "content": "Nuestros programas educativos empoderan a las comunidades con conocimientos sobre el cambio climático, la justicia ambiental y las prácticas sostenibles. A través de talleres, programas escolares y eventos comunitarios, estamos formando la próxima generación de líderes ambientales.",
+      "learnMore": "Más Información"
+    },
+    "communityEngagement": {
+      "title": "Participación Comunitaria",
+      "description": "Construimos alianzas y involucramos a los residentes locales en iniciativas ambientales.",
+      "content": "Nuestros programas de participación comunitaria aseguran que las voces locales lideren nuestras iniciativas ambientales. Trabajamos estrechamente con líderes vecinales, organizamos eventos de voluntariado y creamos oportunidades para una participación comunitaria significativa en proyectos ambientales.",
+      "learnMore": "Más Información"
+    }
+  },
+  "impact": {
+    "title": "Nuestro Impacto",
+    "treesPlanted": "Árboles Plantados",
+    "communitiesServed": "Comunidades Atendidas",
+    "volunteersEngaged": "Voluntarios Comprometidos",
+    "waterSaved": "Galones de Agua Ahorrados"
+  },
+  "whereWeWork": {
+    "title": "Dónde Trabajamos",
+    "description": "Justice Releaf se centra en servir a las comunidades de San Diego más afectadas por la desigualdad ambiental. A través de nuestro enfoque específico, estamos haciendo una diferencia significativa aquí en la Ciudad Más Bella de América.",
+    "locations": {
+      "barrioLogan": {
+        "title": "Barrio Logan",
+        "description": "Trabajando con la comunidad local para mejorar la calidad del aire y crear espacios verdes en este vecindario históricamente desatendido."
+      },
+      "cityHeights": {
+        "title": "City Heights",
+        "description": "Desarrollando jardines comunitarios y proporcionando programas de educación ambiental en una de las comunidades más diversas de San Diego."
+      },
+      "southeastSD": {
+        "title": "Sureste de San Diego",
+        "description": "Implementando iniciativas de silvicultura urbana y proyectos de infraestructura sostenible para combatir los efectos de las islas de calor urbanas."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Justice Releaf",
+    "subtitle": "Conozca nuestra misión, nuestro equipo y nuestro viaje para crear un futuro más equitativo y sostenible.",
+    "tabs": {
+      "mission": "Nuestra Misión",
+      "story": "Nuestra Historia",
+      "team": "Nuestro Equipo"
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description1": "Justice Releaf está dedicada a abordar la injusticia climática en comunidades desfavorecidas a través de iniciativas sostenibles, educación y defensa. Creemos que todos merecen acceso a un ambiente saludable, independientemente de su estatus socioeconómico.",
+      "description2": "Nuestra misión es crear un mundo donde los beneficios y las cargas ambientales se compartan equitativamente, y donde todas las comunidades tengan los recursos y el conocimiento para adaptarse al cambio climático.",
+      "values": {
+        "title": "Nuestros Valores",
+        "list": [
+          "Justicia Ambiental",
+          "Empoderamiento Comunitario",
+          "Sostenibilidad",
+          "Educación",
+          "Colaboración"
+        ]
+      },
+      "image": {
+        "caption": "Voluntarios trabajando juntos para limpiar residuos plásticos y proteger nuestro medio ambiente"
+      }
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "description1": "Justice Releaf fue fundada en 2025 por un grupo de activistas ambientales que reconocieron el impacto desproporcionado del cambio climático en las comunidades de bajos ingresos y las comunidades de color.",
+      "description2": "Lo que comenzó como una pequeña iniciativa de plantación de árboles en un vecindario se ha convertido en un movimiento nacional con programas de ecologización urbana, acceso a energía limpia y educación climática.",
+      "description3": "Hoy, Justice Releaf trabaja con comunidades en todo el país para abordar las desigualdades ambientales y construir un futuro más sostenible y justo para todos.",
+      "image": {
+        "caption": "Miembros de la comunidad unidos por la justicia climática y la equidad ambiental"
+      }
+    },
+    "team": {
+      "title": "Nuestro Equipo de Liderazgo",
+      "members": {
+        "katelyn": {
+          "name": "Katelyn Tuley",
+          "role": "Co-Fundadora y Directora Ejecutiva",
+          "bio": "Defensora ambiental y organizadora comunitaria dedicada a llevar soluciones sostenibles a comunidades desatendidas."
+        },
+        "madison": {
+          "name": "Madison Tuley",
+          "role": "Co-Fundadora y Directora de Operaciones",
+          "bio": "Experta en sostenibilidad con pasión por implementar iniciativas verdes y gestionar programas ambientales."
+        },
+        "tristan": {
+          "name": "Tristan Ferdinand",
+          "role": "Director de Tecnología",
+          "bio": "Líder tecnológico enfocado en aprovechar soluciones digitales para la justicia ambiental y el compromiso comunitario."
+        },
+        "akshay": {
+          "name": "Akshay Uppal",
+          "role": "Director de Alianzas",
+          "bio": "Estratega de alianzas construyendo conexiones entre comunidades y organizaciones ambientales para maximizar el impacto."
+        },
+        "rishit": {
+          "name": "Rishit Bhandari",
+          "role": "Director de Innovación",
+          "bio": "Especialista en innovación desarrollando soluciones creativas para desafíos ambientales en comunidades urbanas."
+        }
+      }
+    },
+    "joinMission": {
+      "title": "Únete a Nuestra Misión",
+      "description": "Siempre estamos buscando personas y organizaciones apasionadas para unirse a nuestra lucha por la justicia climática.",
+      "buttons": {
+        "getInvolved": "Participa",
+        "contactUs": "Contáctanos"
+      }
+    }
+  },
+  "programs": {
+    "title": "Nuestros Programas",
+    "subtitle": "Descubre cómo Justice Releaf está trabajando para abordar la injusticia climática a través de nuestras diversas iniciativas y alianzas.",
+    "tabs": {
+      "initiatives": "Nuestras Iniciativas",
+      "partnerships": "Alianzas",
+      "impact": "Impacto"
+    },
+    "initiatives": {
+      "urbanGreening": {
+        "title": "Ecologización Urbana",
+        "subtitle": "Transformando espacios urbanos con plantas nativas",
+        "description": "Nuestra iniciativa de Ecologización Urbana se centra en plantar árboles y crear espacios verdes en vecindarios dominados por el concreto para mejorar la calidad del aire, reducir las islas de calor y proporcionar espacios de reunión comunitaria.",
+        "features": [
+          "Plantación de árboles en vecindarios urbanos",
+          "Desarrollo de jardines comunitarios",
+          "Restauración de espacios verdes"
+        ],
+        "learnMore": "Más Información"
+      },
+      "cleanEnergy": {
+        "title": "Acceso a Energía Limpia",
+        "subtitle": "Llevando energía renovable a todas las comunidades",
+        "description": "Nuestro programa de Acceso a Energía Limpia trabaja para asegurar que todas las comunidades, independientemente de su estatus socioeconómico, tengan acceso a fuentes de energía limpia y renovable y los beneficios que proporcionan.",
+        "features": [
+          "Asistencia en instalación de paneles solares",
+          "Educación en eficiencia energética",
+          "Capacitación en empleos de energía limpia"
+        ],
+        "learnMore": "Más Información"
+      },
+      "education": {
+        "title": "Educación Climática",
+        "subtitle": "Empoderando a través del conocimiento",
+        "description": "Nuestro programa de Educación Climática proporciona recursos y talleres para ayudar a las comunidades a comprender el cambio climático, sus impactos y cómo pueden abogar por la justicia ambiental.",
+        "features": [
+          "Currículo climático escolar",
+          "Talleres comunitarios",
+          "Capacitación en defensa ambiental"
+        ],
+        "learnMore": "Más Información"
+      }
+    },
+    "partnerships": {
+      "title": "Nuestras Organizaciones Aliadas",
+      "subtitle": "Justice Releaf colabora con varias organizaciones para maximizar nuestro impacto y alcance. Juntos, trabajamos hacia un futuro más sostenible y equitativo.",
+      "partners": {
+        "sd350": {
+          "title": "San Diego 350",
+          "subtitle": "Construyendo un movimiento por la justicia climática",
+          "description1": "San Diego 350 está construyendo un movimiento por la justicia climática movilizando a las personas para tomar acción. Trabajan para prevenir los peores impactos del cambio climático y promover un futuro justo y sostenible a través de la educación, el alcance comunitario, la defensa de políticas públicas y la organización comunitaria.",
+          "description2": "Nuestra alianza con San Diego 350 se centra en iniciativas de acción climática basadas en la comunidad y programas educativos en comunidades desatendidas en todo el Condado de San Diego.",
+          "cta": "Visitar Programas de San Diego 350"
+        },
+        "ehc": {
+          "title": "Coalición de Salud Ambiental",
+          "subtitle": "Logrando justicia ambiental y social",
+          "description1": "La Coalición de Salud Ambiental (EHC) está dedicada a lograr la justicia ambiental y social. Organizan y abogan por proteger la salud pública y el medio ambiente amenazados por la contaminación tóxica, particularmente en comunidades de bajos ingresos y comunidades de color.",
+          "description2": "Nuestra alianza con EHC se centra en abordar los peligros ambientales en comunidades desfavorecidas y abogar por políticas que promuevan la justicia ambiental y el desarrollo equitativo.",
+          "cta": "Visitar Coalición de Salud Ambiental"
+        },
+        "cjbi": {
+          "title": "Índice de Creencias sobre Justicia Climática",
+          "subtitle": "Midiendo y avanzando la conciencia sobre justicia climática",
+          "description1": "El Índice de Creencias sobre Justicia Climática es una iniciativa de investigación que mide la comprensión y creencias públicas sobre la justicia climática en diferentes comunidades. Su trabajo ayuda a identificar brechas en la conciencia e informa los esfuerzos dirigidos de educación y defensa.",
+          "description2": "Nuestra alianza aprovecha su investigación para desarrollar programas de educación climática más efectivos y adaptar nuestras iniciativas para abordar necesidades y brechas de conocimiento específicas de la comunidad.",
+          "cta": "Más Información sobre esta Alianza"
+        },
+        "gcc": {
+          "title": "Coalición de Comunidades Verdes",
+          "subtitle": "Unidos por la equidad ambiental",
+          "description1": "La Coalición de Comunidades Verdes reúne a organizaciones de base que trabajan en temas de justicia ambiental en todo el país. Su enfoque está en la defensa de políticas y la organización comunitaria.",
+          "description2": "Nuestra alianza con la Coalición de Comunidades Verdes nos permite conectar iniciativas locales con movimientos nacionales y amplificar las voces de las comunidades que servimos.",
+          "cta": "Más Información sobre esta Alianza"
+        },
+        "usn": {
+          "title": "Red de Sostenibilidad Urbana",
+          "subtitle": "Creando entornos urbanos sostenibles",
+          "description1": "La Red de Sostenibilidad Urbana se centra en transformar entornos urbanos a través de infraestructura verde, transporte sostenible y proyectos de desarrollo liderados por la comunidad.",
+          "description2": "A través de nuestra alianza, colaboramos en iniciativas de ecologización urbana y compartimos recursos y mejores prácticas para crear espacios urbanos más sostenibles y equitativos.",
+          "cta": "Más Información sobre esta Alianza"
+        },
+        "cea": {
+          "title": "Alianza de Energía Limpia",
+          "subtitle": "Avanzando soluciones de energía renovable",
+          "description1": "La Alianza de Energía Limpia trabaja para acelerar la transición a la energía renovable a través de la defensa de políticas, educación y proyectos comunitarios de energía limpia.",
+          "description2": "Nuestra alianza se centra en llevar soluciones de energía limpia a comunidades desfavorecidas y asegurar que los beneficios de la transición a energía limpia se compartan equitativamente.",
+          "cta": "Más Información sobre esta Alianza"
+        }
+      }
+    },
+    "impact": {
+      "title": "Nuestro Impacto",
+      "subtitle": "En Justice Releaf, medimos nuestro éxito por los cambios positivos que creamos en las comunidades. Así es cómo nuestros programas están haciendo la diferencia.",
+      "environmental": {
+        "title": "Impacto Ambiental",
+        "urbanGreening": {
+          "title": "Ecologización Urbana",
+          "description": "Más de 10,000 árboles plantados en vecindarios urbanos, reduciendo la contaminación del aire en un estimado del 15% en áreas objetivo y disminuyendo las temperaturas de verano hasta en 5°F."
+        },
+        "waterConservation": {
+          "title": "Conservación de Agua",
+          "description": "15 millones de galones de agua ahorrados anualmente a través de paisajismo sostenible y sistemas de recolección de agua de lluvia instalados en más de 25 comunidades."
+        },
+        "cleanEnergy": {
+          "title": "Energía Limpia",
+          "description": "Más de 500 hogares en comunidades desfavorecidas ahora tienen acceso a energía solar, reduciendo las emisiones de carbono en un estimado de 2,500 toneladas anuales."
+        }
+      },
+      "community": {
+        "title": "Impacto Comunitario",
+        "education": {
+          "title": "Educación y Empoderamiento",
+          "description": "Más de 10,000 personas alcanzadas a través de programas de educación climática, con 85% reportando mayor conocimiento y 60% tomando acciones concretas en sus comunidades."
+        },
+        "health": {
+          "title": "Mejoras en la Salud",
+          "description": "Las comunidades con nuestros proyectos de ecologización urbana han reportado una disminución del 20% en enfermedades relacionadas con el calor y una mejora del 15% en indicadores de salud respiratoria."
+        },
+        "engagement": {
+          "title": "Participación Comunitaria",
+          "description": "Más de 5,000 voluntarios participando en nuestros programas, con 70% provenientes de las comunidades que servimos, fomentando el liderazgo local y la sostenibilidad a largo plazo."
+        }
+      }
+    },
+    "getInvolved": {
+      "title": "Participa en Nuestros Programas",
+      "description": "Ya sea que quieras ser voluntario, donar o asociarte con nosotros, hay muchas formas de apoyar nuestro trabajo y hacer una diferencia en la lucha por la justicia climática.",
+      "buttons": {
+        "getInvolved": "Participa",
+        "contactUs": "Contáctanos"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "description": "¿Tienes preguntas o quieres participar? Nos encantaría saber de ti.",
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "info": {
+      "title": "Ponte en Contacto",
+      "address": {
+        "title": "Dirección",
+        "line1": "9500 Gilman Drive",
+        "line2": "La Jolla, CA 92092",
+        "country": "Estados Unidos"
+      },
+      "phone": {
+        "title": "Teléfono"
+      },
+      "email": {
+        "title": "Correo"
+      }
+    }
+  },
+  "footer": {
+    "description": "Luchando contra la injusticia climática en comunidades desfavorecidas a través de iniciativas sostenibles, educación y defensa.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "followUs": "Síguenos",
+    "rights": "© {year} Justice Releaf. Todos los derechos reservados."
+  },
+  "getInvolved": {
+    "title": "Participa",
+    "subtitle": "Únete a nuestro movimiento por la justicia climática. Hay muchas formas de contribuir a nuestra misión.",
+    "tabs": {
+      "volunteer": "Voluntariado",
+      "donate": "Donar",
+      "events": "Eventos"
+    },
+    "volunteer": {
+      "title": "Sé Voluntario",
+      "description": "Nuestros voluntarios son la columna vertebral de nuestra organización. Ya sea que tengas unas horas o unos días, tu tiempo y habilidades pueden marcar una diferencia real en nuestra lucha por la justicia climática.",
+      "opportunities": {
+        "title": "Oportunidades de Voluntariado",
+        "list": [
+          "Plantación y mantenimiento de árboles",
+          "Desarrollo de jardines comunitarios",
+          "Talleres de educación climática",
+          "Apoyo administrativo",
+          "Planificación y coordinación de eventos",
+          "Promoción y divulgación"
+        ]
+      },
+      "button": "Conviértete en Voluntario",
+      "imageAlt": "Voluntarios plantando árboles en un jardín comunitario",
+      "image": {
+        "caption": "Nuestros voluntarios trabajando juntos para crear un cambio ambiental positivo"
+      }
+    },
+    "donate": {
+      "title": "Apoya Nuestro Trabajo",
+      "description": "Tu apoyo financiero nos permite continuar nuestro trabajo en comunidades desfavorecidas. Cada donación, sin importar el tamaño, nos ayuda a crear un futuro más justo y sostenible.",
+      "impact": {
+        "title": "A Dónde Va Tu Dinero",
+        "list": [
+          "$25 planta un árbol en un vecindario urbano",
+          "$50 proporciona materiales de educación climática para un aula",
+          "$100 ayuda a una familia a acceder a soluciones de energía limpia",
+          "$500 apoya el desarrollo de un jardín comunitario"
+        ]
+      },
+      "button": "Donar Ahora",
+      "imageAlt": "Miembros de la comunidad trabajando en un proyecto de jardín",
+      "image": {
+        "caption": "Proyecto de jardín comunitario apoyado por generosos donantes como tú"
+      }
+    },
+    "events": {
+      "title": "Próximos Eventos",
+      "register": "Registrarse",
+      "list": [
+        {
+          "id": "tree-planting",
+          "date": "5 de junio de 2025",
+          "title": "Plantación Comunitaria de Árboles",
+          "location": "Oakland, CA",
+          "description": "Únete a nosotros para un día de plantación de árboles en East Oakland. No se necesita experiencia - proporcionaremos todas las herramientas y capacitación."
+        },
+        {
+          "id": "workshop",
+          "date": "12 de junio de 2025",
+          "title": "Taller de Justicia Climática",
+          "location": "Evento Virtual",
+          "description": "Aprende sobre la intersección del cambio climático y la justicia social, y cómo puedes marcar la diferencia en tu comunidad."
+        },
+        {
+          "id": "garden-workday",
+          "date": "20 de junio de 2025",
+          "title": "Día de Trabajo en el Jardín Comunitario",
+          "location": "Detroit, MI",
+          "description": "Ayúdanos a mantener y expandir nuestro jardín comunitario en Detroit. ¡Todas las edades son bienvenidas!"
+        }
+      ]
+    },
+    "partner": {
+      "title": "Asóciate con Nosotros",
+      "description": "Colaboramos con organizaciones, empresas y agencias gubernamentales para maximizar nuestro impacto. Si estás interesado en asociarte con Justice Releaf, nos encantaría saber de ti.",
+      "button": "Contáctanos"
+    }
+  },
+  "info": {
+    "title": "Entendiendo la Justicia Climática",
+    "subtitle": "Aprenda sobre las desigualdades sistémicas que afectan a las comunidades marginadas y cómo el cambio climático las impacta de manera desproporcionada.",
+    "sections": {
+      "systemicInequalities": {
+        "title": "Desigualdades Sistémicas en el Cambio Climático",
+        "description": "El cambio climático no afecta a todas las comunidades por igual. Las comunidades marginadas a menudo soportan las cargas más pesadas de los desafíos ambientales mientras tienen menos recursos para adaptarse.",
+        "keyPoints": [
+          "Las comunidades de bajos ingresos y las comunidades de color tienen más probabilidades de vivir en áreas con mala calidad del aire y mayores niveles de contaminación",
+          "Estas comunidades a menudo carecen de acceso a espacios verdes e infraestructura sostenible",
+          "Las políticas discriminatorias históricas han concentrado a las poblaciones vulnerables en áreas propensas a inundaciones y susceptibles al calor",
+          "El acceso limitado a recursos dificulta la recuperación de estas comunidades ante desastres climáticos"
+        ]
+      },
+      "environmentalRacism": {
+        "title": "Racismo Ambiental",
+        "description": "El racismo ambiental se refiere a la exposición desproporcionada de las personas de color a los peligros ambientales y la falta de acceso a los beneficios ambientales.",
+        "examples": [
+          "Ubicación de instalaciones tóxicas y sitios de desechos en vecindarios minoritarios",
+          "Mayores tasas de enfermedades respiratorias en comunidades de color debido a la proximidad a fuentes de contaminación",
+          "Acceso limitado a agua limpia y opciones de alimentos saludables",
+          "Exclusión de los procesos de toma de decisiones ambientales"
+        ]
+      },
+      "indigenousImpacts": {
+        "title": "Comunidades Indígenas y Justicia Climática",
+        "description": "Las comunidades indígenas enfrentan desafíos únicos ya que el cambio climático amenaza no solo sus tierras sino también sus prácticas culturales y formas de vida tradicionales.",
+        "keyPoints": [
+          "Pérdida de tierras y recursos tradicionales debido al aumento del nivel del mar y cambios en los ecosistemas",
+          "Amenazas a las fuentes tradicionales de alimentos y plantas medicinales",
+          "Desplazamiento de territorios ancestrales",
+          "Erosión de prácticas culturales vinculadas a condiciones ambientales específicas"
+        ]
+      },
+      "economicFactors": {
+        "title": "Barreras Económicas para la Adaptación Climática",
+        "description": "La desigualdad económica juega un papel crucial en la determinación de la capacidad de una comunidad para adaptarse y recuperarse de los impactos climáticos.",
+        "barriers": [
+          "Acceso limitado a alternativas de energía limpia debido a altos costos iniciales",
+          "Incapacidad para reubicarse de áreas de alto riesgo",
+          "Falta de cobertura de seguro para desastres relacionados con el clima",
+          "Recursos limitados para mejoras en el hogar que podrían aumentar la resiliencia climática"
+        ]
+      },
+      "solutions": {
+        "title": "Trabajando hacia la Justicia Climática",
+        "description": "Abordar la justicia climática requiere un enfoque multifacético que centre las necesidades y voces de las comunidades afectadas.",
+        "actions": [
+          "Apoyar iniciativas ambientales lideradas por la comunidad",
+          "Abogar por políticas climáticas equitativas",
+          "Aumentar el acceso a empleos verdes y energía limpia",
+          "Empoderar a las comunidades a través de la educación y los recursos",
+          "Promover procesos de toma de decisiones inclusivos"
+        ]
+      }
+    },
+    "sources": {
+      "title": "Fuentes y Lecturas Adicionales",
+      "list": [
+        "Environmental Health Coalition (EHC)",
+        "Climate Justice Alliance",
+        "Informes del IPCC sobre los Impactos del Cambio Climático",
+        "Programa de Justicia Ambiental y Climática de NAACP",
+        "Red Ambiental Indígena"
+      ]
+    }
+  }
+} 

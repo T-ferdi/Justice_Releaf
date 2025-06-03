@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "title": "Justice Releaf - Environmental Justice for All Communities",
+    "description": "Justice Releaf works to address environmental inequalities by bringing sustainable solutions, green spaces, and climate education to underprivileged communities."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "info": "Info",
+    "getInvolved": "Get Involved",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+  "hero": {
+    "title": "Fighting for Climate Justice in Every Community",
+    "description": "Justice Releaf works to address environmental inequalities by bringing sustainable solutions, green spaces, and climate education to underprivileged communities.",
+    "getInvolved": "Get Involved",
+    "donate": "Donate Now"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "Justice Releaf is dedicated to addressing climate injustice in underprivileged communities through sustainable initiatives, education, and advocacy. We believe that everyone deserves access to a healthy environment, regardless of socioeconomic status."
+  },
+  "initiatives": {
+    "title": "Our Initiatives",
+    "urbanGreening": {
+      "title": "Urban Greening",
+      "description": "We plant trees and create green spaces in concrete-dominated neighborhoods.",
+      "content": "Our urban greening initiative transforms concrete jungles into vibrant, green communities. Through strategic tree planting and green space development, we improve air quality, reduce urban heat islands, and create beautiful spaces for community gathering.",
+      "learnMore": "Learn More"
+    },
+    "education": {
+      "title": "Climate Education",
+      "description": "We provide workshops and resources to help communities understand climate change.",
+      "content": "Our education programs empower communities with knowledge about climate change, environmental justice, and sustainable practices. Through workshops, school programs, and community events, we're building the next generation of environmental leaders.",
+      "learnMore": "Learn More"
+    },
+    "communityEngagement": {
+      "title": "Community Engagement",
+      "description": "We build partnerships and engage local residents in environmental initiatives.",
+      "content": "Our community engagement programs ensure that local voices lead our environmental initiatives. We work closely with neighborhood leaders, organize volunteer events, and create opportunities for meaningful community participation in environmental projects.",
+      "learnMore": "Learn More"
+    }
+  },
+  "impact": {
+    "title": "Our Impact",
+    "treesPlanted": "Trees Planted",
+    "communitiesServed": "Communities Served",
+    "volunteersEngaged": "Volunteers Engaged",
+    "waterSaved": "Gallons of Water Saved"
+  },
+  "whereWeWork": {
+    "title": "Where We Work",
+    "description": "Justice Releaf is focused on serving San Diego's communities that are most impacted by environmental inequality. Through our targeted approach, we're making a meaningful difference right here in America's Finest City.",
+    "locations": {
+      "barrioLogan": {
+        "title": "Barrio Logan",
+        "description": "Working with local community to improve air quality and create green spaces in this historically underserved neighborhood."
+      },
+      "cityHeights": {
+        "title": "City Heights",
+        "description": "Developing community gardens and providing environmental education programs in one of San Diego's most diverse communities."
+      },
+      "southeastSD": {
+        "title": "Southeast San Diego",
+        "description": "Implementing urban forestry initiatives and sustainable infrastructure projects to combat urban heat island effects."
+      }
+    }
+  },
+  "about": {
+    "title": "About Justice Releaf",
+    "subtitle": "Learn about our mission, our team, and our journey to create a more equitable and sustainable future.",
+    "tabs": {
+      "mission": "Our Mission",
+      "story": "Our Story",
+      "team": "Our Team"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description1": "Justice Releaf is dedicated to addressing climate injustice in underprivileged communities through sustainable initiatives, education, and advocacy. We believe that everyone deserves access to a healthy environment, regardless of socioeconomic status.",
+      "description2": "Our mission is to create a world where environmental benefits and burdens are shared equally, and where all communities have the resources and knowledge to adapt to climate change.",
+      "values": {
+        "title": "Our Values",
+        "list": [
+          "Environmental Justice",
+          "Community Empowerment",
+          "Sustainability",
+          "Education",
+          "Collaboration"
+        ]
+      },
+      "image": {
+        "caption": "Volunteers working together to clean up plastic waste and protect our environment"
+      }
+    },
+    "story": {
+      "title": "Our Story",
+      "description1": "Justice Releaf was founded in 2025 by a group of environmental activists who recognized the disproportionate impact of climate change on low-income communities and communities of color.",
+      "description2": "What began as a small tree-planting initiative in one neighborhood has grown into a nationwide movement with programs in urban greening, clean energy access, and climate education.",
+      "description3": "Today, Justice Releaf works with communities across the country to address environmental inequalities and build a more sustainable and just future for all.",
+      "image": {
+        "caption": "Community members rallying together for climate justice and environmental equity"
+      }
+    },
+    "team": {
+      "title": "Our Leadership Team",
+      "members": {
+        "katelyn": {
+          "name": "Katelyn Tuley",
+          "role": "Co-Founder & Executive Director",
+          "bio": "Environmental advocate and community organizer dedicated to bringing sustainable solutions to underserved communities."
+        },
+        "madison": {
+          "name": "Madison Tuley",
+          "role": "Co-Founder & Director of Operations",
+          "bio": "Sustainability expert with a passion for implementing green initiatives and managing environmental programs."
+        },
+        "tristan": {
+          "name": "Tristan Ferdinand",
+          "role": "Director of Technology",
+          "bio": "Technology leader focused on leveraging digital solutions for environmental justice and community engagement."
+        },
+        "akshay": {
+          "name": "Akshay Uppal",
+          "role": "Director of Partnerships",
+          "bio": "Partnership strategist building connections between communities and environmental organizations for maximum impact."
+        },
+        "rishit": {
+          "name": "Rishit Bhandari",
+          "role": "Director of Innovation",
+          "bio": "Innovation specialist developing creative solutions for environmental challenges in urban communities."
+        }
+      }
+    },
+    "joinMission": {
+      "title": "Join Our Mission",
+      "description": "We're always looking for passionate individuals and organizations to join our fight for climate justice.",
+      "buttons": {
+        "getInvolved": "Get Involved",
+        "contactUs": "Contact Us"
+      }
+    }
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Discover how Justice Releaf is working to address climate injustice through our various initiatives and partnerships.",
+    "tabs": {
+      "initiatives": "Our Initiatives",
+      "partnerships": "Partnerships",
+      "impact": "Impact"
+    },
+    "initiatives": {
+      "urbanGreening": {
+        "title": "Urban Greening",
+        "subtitle": "Transforming urban spaces with native plants",
+        "description": "Our Urban Greening initiative focuses on planting trees and creating green spaces in concrete-dominated neighborhoods to improve air quality, reduce heat islands, and provide community gathering spaces.",
+        "features": [
+          "Tree planting in urban neighborhoods",
+          "Community garden development",
+          "Green space restoration"
+        ],
+        "learnMore": "Learn More"
+      },
+      "cleanEnergy": {
+        "title": "Clean Energy Access",
+        "subtitle": "Bringing renewable energy to all communities",
+        "description": "Our Clean Energy Access program works to ensure that all communities, regardless of socioeconomic status, have access to clean, renewable energy sources and the benefits they provide.",
+        "features": [
+          "Solar panel installation assistance",
+          "Energy efficiency education",
+          "Clean energy job training"
+        ],
+        "learnMore": "Learn More"
+      },
+      "education": {
+        "title": "Climate Education",
+        "subtitle": "Empowering through knowledge",
+        "description": "Our Climate Education program provides resources and workshops to help communities understand climate change, its impacts, and how they can advocate for environmental justice.",
+        "features": [
+          "School-based climate curriculum",
+          "Community workshops",
+          "Advocacy training"
+        ],
+        "learnMore": "Learn More"
+      }
+    },
+    "partnerships": {
+      "title": "Our Partner Organizations",
+      "subtitle": "Justice Releaf collaborates with various organizations to maximize our impact and reach. Together, we work towards a more sustainable and equitable future.",
+      "partners": {
+        "sd350": {
+          "title": "San Diego 350",
+          "subtitle": "Building a movement for climate justice",
+          "description1": "San Diego 350 is building a movement for climate justice by mobilizing people to take action. They work to prevent the worst impacts of climate change and promote a just, sustainable future through education, outreach, public policy advocacy, and community organizing.",
+          "description2": "Our partnership with San Diego 350 focuses on community-based climate action initiatives and educational programs in underserved communities throughout San Diego County.",
+          "cta": "Visit San Diego 350 Programs"
+        },
+        "ehc": {
+          "title": "Environmental Health Coalition",
+          "subtitle": "Achieving environmental and social justice",
+          "description1": "The Environmental Health Coalition (EHC) is dedicated to achieving environmental and social justice. They organize and advocate to protect public health and the environment threatened by toxic pollution, particularly in low-income and communities of color.",
+          "description2": "Our partnership with EHC focuses on addressing environmental hazards in disadvantaged communities and advocating for policies that promote environmental justice and equitable development.",
+          "cta": "Visit Environmental Health Coalition"
+        },
+        "cjbi": {
+          "title": "Climate Justice Beliefs Index",
+          "subtitle": "Measuring and advancing climate justice awareness",
+          "description1": "The Climate Justice Beliefs Index is a research initiative that measures public understanding and beliefs about climate justice across different communities. Their work helps identify gaps in awareness and informs targeted education and advocacy efforts.",
+          "description2": "Our partnership leverages their research to develop more effective climate education programs and tailor our initiatives to address specific community needs and knowledge gaps.",
+          "cta": "Learn More About This Partnership"
+        },
+        "gcc": {
+          "title": "Green Communities Coalition",
+          "subtitle": "Uniting for environmental equity",
+          "description1": "The Green Communities Coalition brings together grassroots organizations working on environmental justice issues across the country. Their focus is on policy advocacy and community organizing.",
+          "description2": "Our partnership with the Green Communities Coalition allows us to connect local initiatives to national movements and amplify the voices of the communities we serve.",
+          "cta": "Learn More About This Partnership"
+        },
+        "usn": {
+          "title": "Urban Sustainability Network",
+          "subtitle": "Creating sustainable urban environments",
+          "description1": "The Urban Sustainability Network focuses on transforming urban environments through green infrastructure, sustainable transportation, and community-led development projects.",
+          "description2": "Through our partnership, we collaborate on urban greening initiatives and share resources and best practices for creating more sustainable and equitable urban spaces.",
+          "cta": "Learn More About This Partnership"
+        },
+        "cea": {
+          "title": "Clean Energy Alliance",
+          "subtitle": "Advancing renewable energy solutions",
+          "description1": "The Clean Energy Alliance works to accelerate the transition to renewable energy through policy advocacy, education, and community-based clean energy projects.",
+          "description2": "Our partnership focuses on bringing clean energy solutions to underprivileged communities and ensuring that the benefits of the clean energy transition are shared equitably.",
+          "cta": "Learn More About This Partnership"
+        }
+      }
+    },
+    "impact": {
+      "title": "Our Impact",
+      "subtitle": "At Justice Releaf, we measure our success by the positive changes we create in communities. Here's how our programs are making a difference.",
+      "environmental": {
+        "title": "Environmental Impact",
+        "urbanGreening": {
+          "title": "Urban Greening",
+          "description": "10,000+ trees planted in urban neighborhoods, reducing air pollution by an estimated 15% in target areas and decreasing summer temperatures by up to 5°F."
+        },
+        "waterConservation": {
+          "title": "Water Conservation",
+          "description": "15 million gallons of water saved annually through sustainable landscaping and rainwater harvesting systems installed in 25+ communities."
+        },
+        "cleanEnergy": {
+          "title": "Clean Energy",
+          "description": "500+ households in underprivileged communities now have access to solar power, reducing carbon emissions by an estimated 2,500 tons annually."
+        }
+      },
+      "community": {
+        "title": "Community Impact",
+        "education": {
+          "title": "Education & Empowerment",
+          "description": "10,000+ individuals reached through climate education programs, with 85% reporting increased knowledge and 60% taking concrete actions in their communities."
+        },
+        "health": {
+          "title": "Health Improvements",
+          "description": "Communities with our urban greening projects have reported a 20% decrease in heat-related illnesses and a 15% improvement in respiratory health indicators."
+        },
+        "engagement": {
+          "title": "Community Engagement",
+          "description": "5,000+ volunteers engaged in our programs, with 70% coming from the communities we serve, fostering local leadership and long-term sustainability."
+        }
+      }
+    },
+    "getInvolved": {
+      "title": "Get Involved in Our Programs",
+      "description": "Whether you want to volunteer, donate, or partner with us, there are many ways to support our work and make a difference in the fight for climate justice.",
+      "buttons": {
+        "getInvolved": "Get Involved",
+        "contactUs": "Contact Us"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions or want to get involved? We'd love to hear from you.",
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Get in Touch",
+      "address": {
+        "title": "Address",
+        "line1": "9500 Gilman Drive",
+        "line2": "La Jolla, CA 92092",
+        "country": "United States"
+      },
+      "phone": {
+        "title": "Phone"
+      },
+      "email": {
+        "title": "Email"
+      }
+    }
+  },
+  "footer": {
+    "description": "Fighting climate injustice in underprivileged communities through sustainable initiatives, education, and advocacy.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "© {year} Justice Releaf. All rights reserved."
+  },
+  "getInvolved": {
+    "title": "Get Involved",
+    "subtitle": "Join our movement for climate justice. There are many ways to contribute to our mission.",
+    "tabs": {
+      "volunteer": "Volunteer",
+      "donate": "Donate",
+      "events": "Events"
+    },
+    "volunteer": {
+      "title": "Volunteer With Us",
+      "description": "Join our community of dedicated volunteers making a difference in environmental justice.",
+      "opportunities": {
+        "title": "Volunteer Opportunities",
+        "list": [
+          "Tree planting and maintenance",
+          "Community garden development",
+          "Educational workshop facilitation",
+          "Event organization",
+          "Administrative support"
+        ]
+      },
+      "button": "Sign Up to Volunteer",
+      "imageAlt": "Diverse group of volunteers working together on environmental projects",
+      "image": {
+        "caption": "Our volunteers working together to create positive environmental change"
+      }
+    },
+    "donate": {
+      "title": "Support Our Mission",
+      "description": "Your donation helps us continue our work in environmental justice and community empowerment.",
+      "impact": {
+        "title": "Your Impact",
+        "list": [
+          "$25 plants a new tree",
+          "$50 provides educational materials for a classroom",
+          "$100 supports a community garden",
+          "$500 funds a neighborhood clean-up event"
+        ]
+      },
+      "button": "Donate Now",
+      "imageAlt": "Community members working in a sustainable garden project",
+      "image": {
+        "caption": "Community garden project supported by generous donors like you"
+      }
+    },
+    "events": {
+      "title": "Upcoming Events",
+      "register": "Register",
+      "list": [
+        {
+          "id": "tree-planting",
+          "date": "June 5, 2025",
+          "title": "Community Tree Planting",
+          "location": "Oakland, CA",
+          "description": "Join us for a day of tree planting in East Oakland. No experience necessary - we'll provide all tools and training."
+        },
+        {
+          "id": "workshop",
+          "date": "June 12, 2025",
+          "title": "Climate Justice Workshop",
+          "location": "Virtual Event",
+          "description": "Learn about the intersection of climate change and social justice, and how you can make a difference in your community."
+        },
+        {
+          "id": "garden-workday",
+          "date": "June 20, 2025",
+          "title": "Community Garden Workday",
+          "location": "Detroit, MI",
+          "description": "Help us maintain and expand our community garden in Detroit. All ages welcome!"
+        }
+      ]
+    },
+    "partner": {
+      "title": "Partner With Us",
+      "description": "We collaborate with organizations, businesses, and government agencies to maximize our impact. If you're interested in partnering with Justice Releaf, we'd love to hear from you.",
+      "button": "Contact Us"
+    }
+  },
+  "info": {
+    "title": "Understanding Climate Justice",
+    "subtitle": "Learn about the systemic inequalities that affect marginalized communities and how climate change impacts them disproportionately.",
+    "sections": {
+      "systemicInequalities": {
+        "title": "Systemic Inequalities in Climate Change",
+        "description": "Climate change does not affect all communities equally. Marginalized communities often bear the heaviest burdens of environmental challenges while having the least resources to adapt.",
+        "keyPoints": [
+          "Low-income communities and communities of color are more likely to live in areas with poor air quality and higher pollution levels",
+          "These communities often lack access to green spaces and sustainable infrastructure",
+          "Historical redlining and discriminatory policies have concentrated vulnerable populations in flood-prone and heat-susceptible areas",
+          "Limited access to resources makes it harder for these communities to recover from climate disasters"
+        ]
+      },
+      "environmentalRacism": {
+        "title": "Environmental Racism",
+        "description": "Environmental racism refers to the disproportionate exposure of people of color to environmental hazards and lack of access to environmental benefits.",
+        "examples": [
+          "Placement of toxic facilities and waste sites in minority neighborhoods",
+          "Higher rates of respiratory diseases in communities of color due to proximity to pollution sources",
+          "Limited access to clean water and healthy food options",
+          "Exclusion from environmental decision-making processes"
+        ]
+      },
+      "indigenousImpacts": {
+        "title": "Indigenous Communities and Climate Justice",
+        "description": "Indigenous communities face unique challenges as climate change threatens not only their lands but also their cultural practices and traditional ways of life.",
+        "keyPoints": [
+          "Loss of traditional lands and resources due to rising sea levels and changing ecosystems",
+          "Threats to traditional food sources and medicinal plants",
+          "Displacement from ancestral territories",
+          "Erosion of cultural practices tied to specific environmental conditions"
+        ]
+      },
+      "economicFactors": {
+        "title": "Economic Barriers to Climate Adaptation",
+        "description": "Economic inequality plays a crucial role in determining a community's ability to adapt to and recover from climate impacts.",
+        "barriers": [
+          "Limited access to clean energy alternatives due to high upfront costs",
+          "Inability to relocate from high-risk areas",
+          "Lack of insurance coverage for climate-related disasters",
+          "Limited resources for home improvements that could increase climate resilience"
+        ]
+      },
+      "solutions": {
+        "title": "Working Towards Climate Justice",
+        "description": "Addressing climate justice requires a multi-faceted approach that centers the needs and voices of affected communities.",
+        "actions": [
+          "Supporting community-led environmental initiatives",
+          "Advocating for equitable climate policies",
+          "Increasing access to green jobs and clean energy",
+          "Empowering communities through education and resources",
+          "Promoting inclusive decision-making processes"
+        ]
+      }
+    },
+    "sources": {
+      "title": "Sources and Further Reading",
+      "list": [
+        "Environmental Health Coalition (EHC)",
+        "Climate Justice Alliance",
+        "IPCC Reports on Climate Change Impacts",
+        "NAACP Environmental and Climate Justice Program",
+        "Indigenous Environmental Network"
+      ]
+    }
+  }
+} 
