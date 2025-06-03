@@ -1,19 +1,18 @@
 import createMiddleware from 'next-intl/middleware';
-import { locales, defaultLocale } from './i18n.config';
+import { locales, defaultLocale } from './i18n';
 
 export default createMiddleware({
   // A list of all locales that are supported
-  locales,
-
-  // If this locale is matched, pathnames work without a prefix (e.g. `/about`)
-  defaultLocale,
+  locales: locales,
   
-  // Redirect to default locale if no locale is detected
+  // Used when no locale matches
+  defaultLocale: defaultLocale,
+  
+  // If this locale is matched, pathnames work without a prefix (e.g. `/about`)
   localePrefix: 'always'
 });
 
 export const config = {
-  // Skip all paths that should not be internationalized. This example skips the
-  // folders "api", "_next" and all files with an extension (e.g. favicon.ico)
-  matcher: ['/((?!api|_next|.*\\..*).*)']
+  // Match only internationalized pathnames
+  matcher: ['/', '/(en|es)/:path*']
 }; 
