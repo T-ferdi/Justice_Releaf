@@ -26,16 +26,14 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
-export async function generateMetadata(props: {
-  children: React.ReactNode
-  params: { locale: string }
-}) {
-  const locale = props.params.locale
-  const t = await getTranslations({ locale, namespace: 'metadata' })
-
+export async function generateMetadata(
+  { params: { locale } }: { params: { locale: string } }
+) {
+  const messages = await getMessages(locale)
+  
   return {
-    title: t('title'),
-    description: t('description'),
+    title: messages.metadata?.title || 'Justice Releaf',
+    description: messages.metadata?.description || 'Environmental Justice for All Communities',
   }
 }
 
