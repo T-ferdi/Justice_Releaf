@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation'
 import { locales } from '@/i18n'
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
+import { unstable_setRequestLocale } from 'next-intl/server'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -39,6 +40,9 @@ export default async function LocaleLayout({
   children: React.ReactNode
   params: { locale: string }
 }) {
+  // Enable static rendering
+  unstable_setRequestLocale(locale);
+
   // Validate that the incoming `locale` parameter is valid
   if (!locales.includes(locale as any)) {
     notFound()

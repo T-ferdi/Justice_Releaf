@@ -1,16 +1,22 @@
-"use client"
-
 import { ArrowRight } from "lucide-react"
 import Link from "next/link"
-import { useTranslations, useLocale } from 'next-intl'
+import { unstable_setRequestLocale } from 'next-intl/server'
+import { getTranslations } from 'next-intl/server'
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
-export default function AboutPage() {
-  const t = useTranslations('about')
-  const locale = useLocale()
+export default async function AboutPage({
+  params: { locale }
+}: {
+  params: { locale: string }
+}) {
+  // Enable static rendering
+  unstable_setRequestLocale(locale);
+
+  // Get translations
+  const t = await getTranslations('about')
 
   return (
     <main className="flex-1">
