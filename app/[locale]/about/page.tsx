@@ -2,20 +2,38 @@ import { ArrowRight } from "lucide-react"
 import Link from "next/link"
 import { unstable_setRequestLocale } from 'next-intl/server'
 import { getTranslations } from 'next-intl/server'
+import type { Metadata } from 'next'
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
+type GenerateMetadataProps = {
+  params: { locale: string }
+}
+
+export async function generateMetadata({ params }: GenerateMetadataProps): Promise<Metadata> {
+  const t = await getTranslations({ locale: params.locale, namespace: 'metadata' })
+  return {
+    title: t('title'),
+    description: t('description')
+  }
+}
+
 export const dynamic = 'force-static'
+export const revalidate = false
+
+type AboutPageProps = {
+  params: { locale: string }
+  searchParams: Record<string, string | string[] | undefined>
+}
 
 export default async function AboutPage({
   params,
-}: {
-  params: { locale: string }
-}) {
+  searchParams
+}: AboutPageProps) {
   // Enable static rendering
-  unstable_setRequestLocale(params.locale);
+  unstable_setRequestLocale(params.locale)
 
   // Get translations
   const t = await getTranslations('about')
