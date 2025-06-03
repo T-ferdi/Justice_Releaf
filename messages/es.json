@@ -392,8 +392,30 @@
     }
   },
   "info": {
-    "title": "Entendiendo la Justicia Climática",
-    "subtitle": "Aprenda sobre las desigualdades sistémicas que afectan a las comunidades marginadas y cómo el cambio climático las impacta de manera desproporcionada.",
+    "title": "Información sobre Justicia Ambiental",
+    "subtitle": "Comprendiendo la intersección entre temas ambientales y justicia social",
+    "whatWeDo": {
+      "title": "Qué Hacemos",
+      "description": "Justice Releaf trabaja en la intersección de la conservación ambiental y la justicia social. Identificamos comunidades desproporcionadamente afectadas por problemas ambientales e implementamos soluciones sostenibles que abordan tanto las necesidades ecológicas como sociales."
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "description": "Nuestro enfoque combina la participación comunitaria, la investigación científica y la acción práctica. Trabajamos directamente con los residentes locales para comprender sus necesidades, colaboramos con expertos para desarrollar soluciones sostenibles e implementamos proyectos que crean un cambio positivo duradero."
+    },
+    "impact": {
+      "title": "Nuestro Impacto",
+      "points": [
+        "Reducción del efecto isla de calor urbano en vecindarios objetivo hasta en 5°F mediante la plantación estratégica de árboles",
+        "Mejora de la calidad del aire en comunidades cercanas a áreas industriales mediante zonas verdes de amortiguamiento",
+        "Creación de jardines de alimentos sostenibles en comunidades con desiertos alimentarios",
+        "Educación ambiental proporcionada a más de 1,000 miembros de la comunidad",
+        "Instalación de sistemas de energía renovable en áreas desatendidas"
+      ]
+    },
+    "getInvolved": {
+      "title": "Participa",
+      "description": "Hay muchas formas de apoyar nuestra misión. Ya sea a través del voluntariado, donaciones o difusión de conciencia, tu contribución ayuda a crear un futuro más equitativo y sostenible para todas las comunidades."
+    },
     "sections": {
       "systemicInequalities": {
         "title": "Desigualdades Sistémicas en el Cambio Climático",

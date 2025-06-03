@@ -388,70 +388,29 @@
     }
   },
   "info": {
-    "title": "Understanding Climate Justice",
-    "subtitle": "Learn about the systemic inequalities that affect marginalized communities and how climate change impacts them disproportionately.",
-    "sections": {
-      "systemicInequalities": {
-        "title": "Systemic Inequalities in Climate Change",
-        "description": "Climate change does not affect all communities equally. Marginalized communities often bear the heaviest burdens of environmental challenges while having the least resources to adapt.",
-        "keyPoints": [
-          "Low-income communities and communities of color are more likely to live in areas with poor air quality and higher pollution levels",
-          "These communities often lack access to green spaces and sustainable infrastructure",
-          "Historical redlining and discriminatory policies have concentrated vulnerable populations in flood-prone and heat-susceptible areas",
-          "Limited access to resources makes it harder for these communities to recover from climate disasters"
-        ]
-      },
-      "environmentalRacism": {
-        "title": "Environmental Racism",
-        "description": "Environmental racism refers to the disproportionate exposure of people of color to environmental hazards and lack of access to environmental benefits.",
-        "examples": [
-          "Placement of toxic facilities and waste sites in minority neighborhoods",
-          "Higher rates of respiratory diseases in communities of color due to proximity to pollution sources",
-          "Limited access to clean water and healthy food options",
-          "Exclusion from environmental decision-making processes"
-        ]
-      },
-      "indigenousImpacts": {
-        "title": "Indigenous Communities and Climate Justice",
-        "description": "Indigenous communities face unique challenges as climate change threatens not only their lands but also their cultural practices and traditional ways of life.",
-        "keyPoints": [
-          "Loss of traditional lands and resources due to rising sea levels and changing ecosystems",
-          "Threats to traditional food sources and medicinal plants",
-          "Displacement from ancestral territories",
-          "Erosion of cultural practices tied to specific environmental conditions"
-        ]
-      },
-      "economicFactors": {
-        "title": "Economic Barriers to Climate Adaptation",
-        "description": "Economic inequality plays a crucial role in determining a community's ability to adapt to and recover from climate impacts.",
-        "barriers": [
-          "Limited access to clean energy alternatives due to high upfront costs",
-          "Inability to relocate from high-risk areas",
-          "Lack of insurance coverage for climate-related disasters",
-          "Limited resources for home improvements that could increase climate resilience"
-        ]
-      },
-      "solutions": {
-        "title": "Working Towards Climate Justice",
-        "description": "Addressing climate justice requires a multi-faceted approach that centers the needs and voices of affected communities.",
-        "actions": [
-          "Supporting community-led environmental initiatives",
-          "Advocating for equitable climate policies",
-          "Increasing access to green jobs and clean energy",
-          "Empowering communities through education and resources",
-          "Promoting inclusive decision-making processes"
-        ]
-      }
+    "title": "Environmental Justice Information",
+    "subtitle": "Understanding the intersection of environmental issues and social justice",
+    "whatWeDo": {
+      "title": "What We Do",
+      "description": "Justice Releaf works at the intersection of environmental conservation and social justice. We identify communities disproportionately affected by environmental issues and implement sustainable solutions that address both ecological and social needs."
     },
-    "sources": {
-      "title": "Sources and Further Reading",
-      "list": [
-        "Environmental Health Coalition (EHC)",
-        "Climate Justice Alliance",
-        "IPCC Reports on Climate Change Impacts",
-        "NAACP Environmental and Climate Justice Program",
-        "Indigenous Environmental Network"
+    "howItWorks": {
+      "title": "How It Works",
+      "description": "Our approach combines community engagement, scientific research, and practical action. We work directly with local residents to understand their needs, collaborate with experts to develop sustainable solutions, and implement projects that create lasting positive change."
+    },
+    "impact": {
+      "title": "Our Impact",
+      "points": [
+        "Reduced urban heat island effect in target neighborhoods by up to 5°F through strategic tree planting",
+        "Improved air quality in communities near industrial areas through green buffer zones",
+        "Created sustainable food gardens in food desert communities",
+        "Provided environmental education to over 1,000 community members",
+        "Installed renewable energy systems in underserved areas"
       ]
+    },
+    "getInvolved": {
+      "title": "Get Involved",
+      "description": "There are many ways to support our mission. Whether through volunteering, donations, or spreading awareness, your contribution helps create a more equitable and sustainable future for all communities."
     }
   }
 } 
