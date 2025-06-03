@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation'
 import { locales } from '@/i18n'
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
+import { getTranslations } from 'next-intl/server'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -28,12 +29,12 @@ export function generateStaticParams() {
 
 export async function generateMetadata(
   { params: { locale } }: { params: { locale: string } }
-) {
-  const messages = await getMessages(locale)
+): Promise<Metadata> {
+  const t = await getTranslations({ locale, namespace: 'metadata' })
   
   return {
-    title: messages.metadata?.title || 'Justice Releaf',
-    description: messages.metadata?.description || 'Environmental Justice for All Communities',
+    title: t('title'),
+    description: t('description'),
   }
 }
 
