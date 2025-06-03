@@ -23,17 +23,13 @@ export async function generateMetadata({ params }: GenerateMetadataProps): Promi
 export const dynamic = 'force-static'
 export const revalidate = false
 
-type AboutPageProps = {
-  params: { locale: string }
-  searchParams: Record<string, string | string[] | undefined>
-}
-
 export default async function AboutPage({
-  params,
-  searchParams
-}: AboutPageProps) {
+  params: { locale }
+}: {
+  params: { locale: string }
+}) {
   // Enable static rendering
-  unstable_setRequestLocale(params.locale)
+  unstable_setRequestLocale(locale)
 
   // Get translations
   const t = await getTranslations('about')
@@ -161,13 +157,13 @@ export default async function AboutPage({
             </p>
             <div className="mt-8 flex flex-col gap-4 sm:flex-row justify-center">
               <Button asChild size="lg" className="bg-white text-green-700 hover:bg-green-50">
-                <Link href={`/${params.locale}/get-involved`}>
+                <Link href={`/${locale}/get-involved`}>
                   {t('joinMission.buttons.getInvolved')}
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
               <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
-                <Link href={`/${params.locale}/contact`}>{t('joinMission.buttons.contactUs')}</Link>
+                <Link href={`/${locale}/contact`}>{t('joinMission.buttons.contactUs')}</Link>
               </Button>
             </div>
           </div>
